@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "c3a037ce-b687-4cfd-b2e7-af869fb91aac")
+	(uuid "cbc48c17-4c06-47c0-871e-c4425ee427a9")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Pin"
@@ -958,6 +958,259 @@
 			)
 			(embedded_fonts no)
 		)
+	)
+	(hierarchical_label "SCL"
+		(shape passive)
+		(at 133.35 115.57 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0f65a94d-05fd-4dbf-a87b-890b56e3fe14")
+	)
+	(hierarchical_label "D7"
+		(shape bidirectional)
+		(at 118.11 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "12c9e959-e39a-4c47-81db-02f107d588ca")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 116.84 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "19692f26-e4c7-480c-8a0f-adfbc696ea6f")
+	)
+	(hierarchical_label "D2"
+		(shape bidirectional)
+		(at 118.11 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "40b904d4-fe65-4741-a8df-3ff548956dcd")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 146.05 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4c43e1af-6453-45be-b098-6059a59bd2a5")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 139.7 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5425346c-da3b-4bdd-946a-371c80b2eba4")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 146.05 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5e3782e5-cf2c-4871-acfd-7fae57208d77")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 118.11 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8820f6fb-9c1d-4b38-bf21-55abe27f0817")
+	)
+	(hierarchical_label "D8"
+		(shape bidirectional)
+		(at 118.11 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8b0c7272-029a-43ae-bcca-59c5bda23a13")
+	)
+	(hierarchical_label "SCL"
+		(shape passive)
+		(at 116.84 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "934e46e7-c520-40b6-b8d4-fab6c32b6865")
+	)
+	(hierarchical_label "D3"
+		(shape bidirectional)
+		(at 118.11 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "95367e0b-d919-45bd-91d4-eef50e2d070b")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 139.7 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ab379671-e06a-468e-b45b-87ba8fd6296f")
+	)
+	(hierarchical_label "SDA"
+		(shape bidirectional)
+		(at 116.84 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b49e1059-3528-456b-9ccf-2ccd2af3cde6")
+	)
+	(hierarchical_label "D6"
+		(shape bidirectional)
+		(at 118.11 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b51a04fd-1d9e-4500-afb1-2acddd19dae1")
+	)
+	(hierarchical_label "TX"
+		(shape output)
+		(at 139.7 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b63b4086-5ce6-4c8e-af53-8b62d54372db")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 116.84 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b65efa8a-ccd0-48a9-a8d8-5cbf2d6d3c3e")
+	)
+	(hierarchical_label "D5"
+		(shape bidirectional)
+		(at 118.11 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c32c206e-9058-47c5-a670-1204d87695c0")
+	)
+	(hierarchical_label "Vcc"
+		(shape passive)
+		(at 118.11 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d96cbf35-addc-4578-a9c0-b956903048af")
+	)
+	(hierarchical_label "RESET"
+		(shape passive)
+		(at 133.35 118.11 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dd995d64-9092-4fc6-a64c-7bdfcc3b5602")
+	)
+	(hierarchical_label "RX"
+		(shape input)
+		(at 139.7 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "de5fe097-5464-4946-ac32-e231eca99f56")
+	)
+	(hierarchical_label "MISO"
+		(shape output)
+		(at 133.35 113.03 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e493029d-a67d-4fed-b82d-2069032f8bd1")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 146.05 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f41fdbf0-e98d-4f2b-a426-775312abb501")
+	)
+	(hierarchical_label "D4"
+		(shape bidirectional)
+		(at 118.11 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "faba47fd-0bb5-49d8-a994-3d8421c9822c")
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x09_Pin")
