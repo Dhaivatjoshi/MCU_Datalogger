@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "16933f53-0119-4ffc-8fbe-8af88404420d")
+	(uuid "18fe013e-a978-4572-8162-d3df35f6b72d")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Pin"
@@ -968,7 +968,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2ee02821-7c26-4337-9f46-874c5524e4de")
-		(property "Reference" "J?"
+		(property "Reference" "J2"
 			(at 113.665 101.6 0)
 			(effects
 				(font
@@ -1049,7 +1049,7 @@
 		(instances
 			(project ""
 				(path "/d11b8ef8-3bec-4edf-bf58-e6d313bf30d2/206e5ea4-b941-4772-ae1d-8c2adfd23c6f"
-					(reference "J?")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -1064,7 +1064,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "57550ee9-7f22-4931-8148-97d4e6a57d75")
-		(property "Reference" "J?"
+		(property "Reference" "J4"
 			(at 139.7 106.68 0)
 			(effects
 				(font
@@ -1136,7 +1136,7 @@
 		(instances
 			(project ""
 				(path "/d11b8ef8-3bec-4edf-bf58-e6d313bf30d2/206e5ea4-b941-4772-ae1d-8c2adfd23c6f"
-					(reference "J?")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -1151,7 +1151,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6be0c1e2-97fb-4639-ab1a-074b58e26855")
-		(property "Reference" "J?"
+		(property "Reference" "J1"
 			(at 112.395 77.47 0)
 			(effects
 				(font
@@ -1217,7 +1217,7 @@
 		(instances
 			(project ""
 				(path "/d11b8ef8-3bec-4edf-bf58-e6d313bf30d2/206e5ea4-b941-4772-ae1d-8c2adfd23c6f"
-					(reference "J?")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -1232,7 +1232,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ae362554-d0d2-4a16-85ee-62dfa690eae5")
-		(property "Reference" "J?"
+		(property "Reference" "J3"
 			(at 135.255 77.47 0)
 			(effects
 				(font
@@ -1298,7 +1298,7 @@
 		(instances
 			(project "MCU_Datalogger"
 				(path "/d11b8ef8-3bec-4edf-bf58-e6d313bf30d2/206e5ea4-b941-4772-ae1d-8c2adfd23c6f"
-					(reference "J?")
+					(reference "J3")
 					(unit 1)
 				)
 			)
