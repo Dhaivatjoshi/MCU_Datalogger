@@ -43,23 +43,23 @@ This project is an **MCU-based Data Logger** designed to improve my skills in PC
 ## **PCB Design & Visualizations**  
 
 ### **1️⃣ Front Copper Layer**  
-![Front Copper Layer]([insert_image_link_here](https://github.com/Dhaivatjoshi/MCU_Datalogger/blob/master/image/Front_layer.PNG))  
+![Front Copper Layer](https://github.com/Dhaivatjoshi/MCU_Datalogger/blob/master/image/Front_layer.PNG)
+
 
 ### **2️⃣ Back Copper Layer**  
-![Back Copper Layer]([insert_image_link_here](https://github.com/Dhaivatjoshi/MCU_Datalogger/blob/master/image/Bottom_Layer.PNG))  
+![Back Copper Layer](https://github.com/Dhaivatjoshi/MCU_Datalogger/blob/master/image/Bottom_Layer.PNG)  
 
 ### **3️⃣ Combined (Both Layers)**  
-![Combined Layers]([insert_image_link_here](https://github.com/Dhaivatjoshi/MCU_Datalogger/blob/master/image/Both_Layer.PNG))  
+![Combined Layers](https://github.com/Dhaivatjoshi/MCU_Datalogger/blob/master/image/Both_Layer.PNG)  
 
 ### **4️⃣ 3D Model (Front & Back)**  
-![3D Model - Front]([insert_image_link_here](https://github.com/Dhaivatjoshi/MCU_Datalogger/blob/master/image/F_3d_MCU_Datalogger.png))  
-![3D Model - Back]([insert_image_link_here](https://github.com/Dhaivatjoshi/MCU_Datalogger/blob/master/image/B_3d_MCU_Datalogger.png))  
+![3D Model - Front](https://github.com/Dhaivatjoshi/MCU_Datalogger/blob/master/image/F_3d_MCU_Datalogger.png)
+![3D Model - Back](https://github.com/Dhaivatjoshi/MCU_Datalogger/blob/master/image/B_3d_MCU_Datalogger.png)
 
 ---
 
 ## **Download & Build**  
-📥 You can download the complete project files, including KiCad PCB designs, schematics, and firmware from my **GitHub repository**:  
-🔗 [GitHub Repository Link](insert_your_link_here)  
+📥 You can download the complete project files, including KiCad PCB designs, and schematics from my **GitHub repository**  
 
 ---
 
