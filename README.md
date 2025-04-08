@@ -57,7 +57,8 @@ This project is an **MCU-based Data Logger** designed to improve my skills in PC
 ![3D Model - Back](https://github.com/Dhaivatjoshi/MCU_Datalogger/blob/master/image/B_3d_MCU_Datalogger.png)
 
 ### **5️⃣ 3D Model with CAD Casing (Designed in Creo)**  
-![3D Model with Casing](image/CAD Casing.jpeg)
+![3D Model with Casing](https://github.com/Dhaivatjoshi/MCU_Datalogger/blob/master/image/CAD%20Casing.jpeg)
+
 ---
 
 ## **Download & Build**  
